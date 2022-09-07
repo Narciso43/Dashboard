@@ -1,0 +1,36 @@
+:root{
+    --primary: #030c3f;
+    --light:#ffff;
+    --grey:#efefef;
+
+}
+body{
+    overflow: hidden;
+    font-family: 'Muli',sans-serif;
+    font-weight: 300;
+    color: var(--primary);
+}
+
+a:hover{
+    text-decoration: ;
+}
+.bg-primary {
+    background-color: var(--primary)!important;
+}
+.bg-light{background-color:var(--light) !important ;}
+#sidebar-continer{
+    min-height: 100vh;
+}
+#sidebar-container .log{
+    padding: .894rem 1.25 rem; ;   
+}
+#sidebar-container .menu{
+    width: 20rem ;
+}
+
+.btn-search{
+    right: 20px; ;
+}
+.avatar{
+   ,max-width: 43; 
+}
